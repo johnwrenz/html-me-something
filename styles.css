@@ -23,3 +23,7 @@ h1 {
     text-align: center;
     font-size:14px;
 }
+
+ul li {
+    list-style: square;
+}
