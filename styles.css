@@ -1,29 +1,42 @@
 h3 {
     font-size: 14px;
     text-align: left;
-    }
+    line-height:70%;
+}
 
 body {
     font-size: 14px;
     text-align: left;
+    line-height:70%;
     }    
 
 
 div {
    column-count: 3;
    column-gap: 40px;
+   line-height:70%;
 } 
 
 h4 {
 text-align: center;
 font-size:18px;
+line-height:70%;
 }
 
 h1 {
     text-align: center;
     font-size:14px;
+    line-height:70%;
 }
 
 ul li {
     list-style: square;
+    line-height:70%;
+    font-size:14px;
+}
+
+h2 {
+text-align: left;
+font-size:16px;
+line-height:90%;
 }
