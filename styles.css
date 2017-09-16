@@ -59,15 +59,17 @@ line-height:90%;
 }
 footer {
     text-align: center;
+    font-size:14px;
 }
 
 
 
 img {
-    transform:rotate(90deg);
+    transform:rotate(0deg);
     width:auto;
     height:auto;
     max-width:200px;
     max-height:200px;
-    text-align:center;
+    float:right;
+    
 }
