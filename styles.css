@@ -3,6 +3,7 @@ body {
     font-size: 14px;
     text-align: left;
     line-height:70%;
+    padding-top: 50px;
 }    
 
 div {
@@ -66,5 +67,5 @@ img {
     height:auto;
     max-width:200px;
     max-height:200px;
-    
+    margin-top:auto;
 }
