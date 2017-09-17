@@ -9,7 +9,7 @@ body {
 div {
    column-count: 3;
    column-gap: 80px;
-   list-style: square;
+   list-style:square;
    line-height:120%;
    font-size:16px;
    font-family:'Times New Roman', Times, serif;
@@ -71,5 +71,6 @@ img {
     max-width:200px;
     max-height:200px;
     float:right;
+
     
 }
